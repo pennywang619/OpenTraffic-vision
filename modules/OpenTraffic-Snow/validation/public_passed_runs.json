@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "2026-03-30T13:15:41.015167+00:00",
+    "feature": "snow_detection",
+    "execution_mode": "traditional_no_model",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T13:15:41.023033+00:00",
+    "feature": "snow_detection",
+    "execution_mode": "traditional_no_model",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T13:15:46.888081+00:00",
+    "feature": "snow_detection",
+    "execution_mode": "traditional_no_model",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T13:15:46.895420+00:00",
+    "feature": "snow_detection",
+    "execution_mode": "shared_library",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": "libsnow_detection.so",
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:57:20.848134+00:00",
+    "feature": "snow_detection",
+    "execution_mode": "traditional_no_model",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  }
+]

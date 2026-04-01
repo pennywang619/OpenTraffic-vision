@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2026-03-30T13:26:48.779491+00:00",
+    "feature": "red_light_violation_detection",
+    "execution_mode": "rule_only_fallback",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T13:26:48.791036+00:00",
+    "feature": "red_light_violation_detection",
+    "execution_mode": "rule_only_fallback",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T13:26:52.905498+00:00",
+    "feature": "red_light_violation_detection",
+    "execution_mode": "rule_only_fallback",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T13:26:52.912880+00:00",
+    "feature": "red_light_violation_detection",
+    "execution_mode": "shared_library",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": "libred_light_violation_detection.so",
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:55:23.019510+00:00",
+    "feature": "red_light_violation_detection",
+    "execution_mode": "rule_only_fallback",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:57:33.224801+00:00",
+    "feature": "red_light_violation_detection",
+    "execution_mode": "rule_only_fallback",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  }
+]

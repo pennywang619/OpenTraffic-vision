@@ -1,0 +1,140 @@
+{
+  "repo_name": "OpenTraffic-vehicle-flow-detection",
+  "feature": "vehicle_flow_detection",
+  "main_bundle": {
+    "repo_name": "OpenTraffic-vehicle-flow-detection",
+    "sample_name": "vehicle_flow_detection_sample",
+    "feature": "vehicle_flow_detection",
+    "shared_library": "libvehicle_flow_detection.so",
+    "example_files": [
+      "output_result.jpg",
+      "so_output_result.jpg",
+      "so_validate_flow_detection_result.jpg",
+      "video_validation_result.jpg"
+    ],
+    "passed_runs": 9,
+    "execution_modes": [
+      "flow_counter_only",
+      "shared_library"
+    ]
+  },
+  "subtasks": [
+    {
+      "repo_name": "OpenTraffic-vehicle-flow-detection",
+      "sample_name": "01_object_tracking_sample",
+      "feature": "01_object_tracking",
+      "shared_library": "lib01_object_tracking.so",
+      "example_files": [
+        "so_output_result.jpg",
+        "video_validation_result.jpg"
+      ],
+      "passed_runs": 6,
+      "execution_modes": [
+        "exe",
+        "shared_library",
+        "tracking_overlay_only"
+      ]
+    },
+    {
+      "repo_name": "OpenTraffic-vehicle-flow-detection",
+      "sample_name": "02_vehicle_motion_state_sample",
+      "feature": "02_vehicle_motion_state",
+      "shared_library": "lib02_vehicle_motion_state.so",
+      "example_files": [
+        "output_result.jpg",
+        "so_output_result.jpg",
+        "video_validation_result.jpg"
+      ],
+      "passed_runs": 6,
+      "execution_modes": [
+        "motion_state_only",
+        "shared_library"
+      ]
+    },
+    {
+      "repo_name": "OpenTraffic-vehicle-flow-detection",
+      "sample_name": "04_area_vehicle_counting_sample",
+      "feature": "04_area_vehicle_counting",
+      "shared_library": "lib04_area_vehicle_counting.so",
+      "example_files": [
+        "output_result.jpg",
+        "so_output_result.jpg",
+        "video_validation_result.jpg"
+      ],
+      "passed_runs": 6,
+      "execution_modes": [
+        "exe",
+        "flow_counter_only",
+        "shared_library"
+      ]
+    },
+    {
+      "repo_name": "OpenTraffic-vehicle-flow-detection",
+      "sample_name": "05_lane_turning_flow_rebuild_sample",
+      "feature": "05_lane_turning_flow_rebuild",
+      "shared_library": "lib05_lane_turning_flow_rebuild.so",
+      "example_files": [
+        "output_result.jpg",
+        "so_output_result.jpg",
+        "video_validation_result.jpg"
+      ],
+      "passed_runs": 6,
+      "execution_modes": [
+        "event_engine_only",
+        "exe",
+        "shared_library"
+      ]
+    },
+    {
+      "repo_name": "OpenTraffic-vehicle-flow-detection",
+      "sample_name": "06_lane_queue_length_detection_sample",
+      "feature": "06_lane_queue_length_detection",
+      "shared_library": "lib06_lane_queue_length_detection.so",
+      "example_files": [
+        "output_result.jpg",
+        "so_output_result.jpg",
+        "video_validation_result.jpg"
+      ],
+      "passed_runs": 6,
+      "execution_modes": [
+        "exe",
+        "queue_detector_only",
+        "shared_library"
+      ]
+    },
+    {
+      "repo_name": "OpenTraffic-vehicle-flow-detection",
+      "sample_name": "07_overflow_detection_sample",
+      "feature": "07_overflow_detection",
+      "shared_library": "lib07_overflow_detection.so",
+      "example_files": [
+        "output_result.jpg",
+        "so_output_result.jpg",
+        "video_validation_result.jpg"
+      ],
+      "passed_runs": 6,
+      "execution_modes": [
+        "exe",
+        "overflow_detector_only",
+        "shared_library"
+      ]
+    },
+    {
+      "repo_name": "OpenTraffic-vehicle-flow-detection",
+      "sample_name": "08_lane_line_detection_sample",
+      "feature": "08_lane_line_detection",
+      "shared_library": "lib08_lane_line_detection.so",
+      "example_files": [
+        "output_result.jpg",
+        "so_output_result.jpg",
+        "video_validation_result.jpg"
+      ],
+      "passed_runs": 6,
+      "execution_modes": [
+        "confirmed_lines_overlay",
+        "exe",
+        "shared_library"
+      ]
+    }
+  ]
+}

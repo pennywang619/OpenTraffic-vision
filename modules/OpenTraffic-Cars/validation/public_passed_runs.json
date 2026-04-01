@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": "2026-03-30T14:42:55.922312+00:00",
+    "feature": "cars_detection_branch",
+    "execution_mode": "branch_image_fallback",
+    "input_name": "2.png",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T14:42:55.930231+00:00",
+    "feature": "cars_detection_branch",
+    "execution_mode": "branch_image_fallback",
+    "input_name": "2.png",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T14:43:24.626728+00:00",
+    "feature": "cars_detection_branch",
+    "execution_mode": "branch_image_fallback",
+    "input_name": "2.png",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T14:43:24.635370+00:00",
+    "feature": "cars_detection_branch",
+    "execution_mode": "branch_image_fallback",
+    "input_name": "2.png",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T14:43:24.941059+00:00",
+    "feature": "cars_detection_branch",
+    "execution_mode": "branch_image_fallback",
+    "input_name": "2.png",
+    "output_name": "so_output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T14:43:24.948428+00:00",
+    "feature": "cars_detection_branch",
+    "execution_mode": "shared_library",
+    "input_name": "2.png",
+    "output_name": "so_output_result.jpg",
+    "library_name": "libcars_detection.so",
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:57:34.016591+00:00",
+    "feature": "cars_detection_branch",
+    "execution_mode": "branch_image_fallback",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  }
+]

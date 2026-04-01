@@ -1,0 +1,12 @@
+{
+  "passed_runs": 4,
+  "execution_modes": [
+    "opencv_fallback",
+    "shared_library"
+  ],
+  "latest_passed_timestamp": "2026-03-31T01:57:15.013758+00:00",
+  "feature": "image_occluded",
+  "public_repo": "OpenTraffic-Occluded",
+  "sample_name": "image_occluded_sample",
+  "shared_library": "libimage_occluded.so"
+}

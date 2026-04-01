@@ -1,0 +1,14 @@
+{
+  "public_repo": "OpenTraffic-vehicle-flow-detection",
+  "feature": "vehicle_flow_detection",
+  "version": "0.1.0",
+  "mode": "external-wrapper",
+  "artifacts": [
+    "so",
+    "validation",
+    "examples"
+  ],
+  "shared_library": "libvehicle_flow_detection.so",
+  "notes": "Sanitized public delivery bundle with internal paths, source roots, and command details removed.",
+  "bundle_role": "main_module"
+}

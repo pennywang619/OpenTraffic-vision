@@ -1,0 +1,12 @@
+{
+  "passed_runs": 7,
+  "execution_modes": [
+    "branch_image_fallback",
+    "shared_library"
+  ],
+  "latest_passed_timestamp": "2026-03-31T01:57:34.016591+00:00",
+  "feature": "cars_detection",
+  "public_repo": "OpenTraffic-Cars",
+  "sample_name": "cars_detection_sample",
+  "shared_library": "libcars_detection.so"
+}

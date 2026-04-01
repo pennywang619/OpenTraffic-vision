@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2026-03-30T14:59:49.301275+00:00",
+    "feature": "08_lane_line_detection",
+    "execution_mode": "confirmed_lines_overlay",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T14:59:49.309365+00:00",
+    "feature": "08_lane_line_detection_sample",
+    "execution_mode": "exe",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T14:59:49.634466+00:00",
+    "feature": "08_lane_line_detection",
+    "execution_mode": "confirmed_lines_overlay",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T14:59:49.644513+00:00",
+    "feature": "08_lane_line_detection_sample",
+    "execution_mode": "shared_library",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": "lib08_lane_line_detection.so",
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:55:26.274974+00:00",
+    "feature": "08_lane_line_detection",
+    "execution_mode": "confirmed_lines_overlay",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:57:36.789731+00:00",
+    "feature": "08_lane_line_detection",
+    "execution_mode": "confirmed_lines_overlay",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  }
+]

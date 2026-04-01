@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2026-03-30T14:59:51.921886+00:00",
+    "feature": "04_area_vehicle_counting",
+    "execution_mode": "flow_counter_only",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T14:59:51.930314+00:00",
+    "feature": "04_area_vehicle_counting_sample",
+    "execution_mode": "exe",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T14:59:52.241017+00:00",
+    "feature": "04_area_vehicle_counting",
+    "execution_mode": "flow_counter_only",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T14:59:52.248541+00:00",
+    "feature": "04_area_vehicle_counting_sample",
+    "execution_mode": "shared_library",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": "lib04_area_vehicle_counting.so",
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:55:24.723493+00:00",
+    "feature": "04_area_vehicle_counting",
+    "execution_mode": "flow_counter_only",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:57:35.178024+00:00",
+    "feature": "04_area_vehicle_counting",
+    "execution_mode": "flow_counter_only",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  }
+]

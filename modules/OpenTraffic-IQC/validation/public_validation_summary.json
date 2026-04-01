@@ -1,0 +1,12 @@
+{
+  "passed_runs": 4,
+  "execution_modes": [
+    "patched_original",
+    "shared_library"
+  ],
+  "latest_passed_timestamp": "2026-03-31T01:57:12.288431+00:00",
+  "feature": "image_quality_classification",
+  "public_repo": "OpenTraffic-IQC",
+  "sample_name": "image_quality_classification_sample",
+  "shared_library": "libimage_quality_classification.so"
+}

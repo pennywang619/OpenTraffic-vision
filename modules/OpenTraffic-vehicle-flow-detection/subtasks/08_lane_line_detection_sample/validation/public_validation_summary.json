@@ -1,0 +1,13 @@
+{
+  "passed_runs": 6,
+  "execution_modes": [
+    "confirmed_lines_overlay",
+    "exe",
+    "shared_library"
+  ],
+  "latest_passed_timestamp": "2026-03-31T01:57:36.789731+00:00",
+  "feature": "08_lane_line_detection",
+  "public_repo": "OpenTraffic-vehicle-flow-detection",
+  "sample_name": "08_lane_line_detection_sample",
+  "shared_library": "lib08_lane_line_detection.so"
+}

@@ -1,0 +1,12 @@
+{
+  "passed_runs": 6,
+  "execution_modes": [
+    "shared_library",
+    "traditional_fallback"
+  ],
+  "latest_passed_timestamp": "2026-03-31T03:00:45.631567+00:00",
+  "feature": "water_detection",
+  "public_repo": "OpenTraffic-Water",
+  "sample_name": "water_detection_sample",
+  "shared_library": "libwater_detection.so"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2026-03-30T12:40:13.039277+00:00",
+    "feature": "image_occluded",
+    "execution_mode": "opencv_fallback",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T13:09:53.979896+00:00",
+    "feature": "image_occluded",
+    "execution_mode": "opencv_fallback",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T13:09:53.987288+00:00",
+    "feature": "image_occluded",
+    "execution_mode": "shared_library",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": "libimage_occluded.so",
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:57:15.013758+00:00",
+    "feature": "image_occluded",
+    "execution_mode": "opencv_fallback",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "passed_runs": 6,
+  "execution_modes": [
+    "event_engine_only",
+    "exe",
+    "shared_library"
+  ],
+  "latest_passed_timestamp": "2026-03-31T01:57:35.576908+00:00",
+  "feature": "05_lane_turning_flow_rebuild",
+  "public_repo": "OpenTraffic-vehicle-flow-detection",
+  "sample_name": "05_lane_turning_flow_rebuild_sample",
+  "shared_library": "lib05_lane_turning_flow_rebuild.so"
+}

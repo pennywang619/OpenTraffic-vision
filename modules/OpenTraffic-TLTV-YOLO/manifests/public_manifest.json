@@ -1,0 +1,13 @@
+{
+  "public_repo": "OpenTraffic-TLTV-YOLO",
+  "feature": "traffic_light_timing_validation_yolo",
+  "version": "0.1.0",
+  "mode": "external-wrapper",
+  "artifacts": [
+    "so",
+    "validation",
+    "examples"
+  ],
+  "shared_library": "libtraffic_light_timing_validation_yolo.so",
+  "notes": "Sanitized public delivery bundle with internal paths, source roots, and command details removed."
+}

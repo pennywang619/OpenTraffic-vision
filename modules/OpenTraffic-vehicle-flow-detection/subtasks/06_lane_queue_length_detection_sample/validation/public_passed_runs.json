@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2026-03-30T14:59:50.618394+00:00",
+    "feature": "06_lane_queue_length_detection",
+    "execution_mode": "queue_detector_only",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T14:59:50.626570+00:00",
+    "feature": "06_lane_queue_length_detection_sample",
+    "execution_mode": "exe",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T14:59:50.959802+00:00",
+    "feature": "06_lane_queue_length_detection",
+    "execution_mode": "queue_detector_only",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T14:59:50.967283+00:00",
+    "feature": "06_lane_queue_length_detection_sample",
+    "execution_mode": "shared_library",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": "lib06_lane_queue_length_detection.so",
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:55:25.502518+00:00",
+    "feature": "06_lane_queue_length_detection",
+    "execution_mode": "queue_detector_only",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:57:36.016395+00:00",
+    "feature": "06_lane_queue_length_detection",
+    "execution_mode": "queue_detector_only",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  }
+]

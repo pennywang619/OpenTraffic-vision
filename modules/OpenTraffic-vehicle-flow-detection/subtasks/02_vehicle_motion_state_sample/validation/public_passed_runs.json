@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2026-03-30T15:03:33.368526+00:00",
+    "feature": "02_vehicle_motion_state",
+    "execution_mode": "motion_state_only",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T15:03:33.376515+00:00",
+    "feature": "02_vehicle_motion_state",
+    "execution_mode": "motion_state_only",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T15:03:33.694372+00:00",
+    "feature": "02_vehicle_motion_state",
+    "execution_mode": "motion_state_only",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T15:03:33.701900+00:00",
+    "feature": "02_vehicle_motion_state_sample",
+    "execution_mode": "shared_library",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": "lib02_vehicle_motion_state.so",
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:55:24.339719+00:00",
+    "feature": "02_vehicle_motion_state",
+    "execution_mode": "motion_state_only",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:57:34.793295+00:00",
+    "feature": "02_vehicle_motion_state",
+    "execution_mode": "motion_state_only",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  }
+]

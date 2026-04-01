@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2026-03-30T14:59:49.969687+00:00",
+    "feature": "05_lane_turning_flow_rebuild",
+    "execution_mode": "event_engine_only",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T14:59:49.977647+00:00",
+    "feature": "05_lane_turning_flow_rebuild_sample",
+    "execution_mode": "exe",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T14:59:50.295844+00:00",
+    "feature": "05_lane_turning_flow_rebuild",
+    "execution_mode": "event_engine_only",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T14:59:50.303510+00:00",
+    "feature": "05_lane_turning_flow_rebuild_sample",
+    "execution_mode": "shared_library",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": "lib05_lane_turning_flow_rebuild.so",
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:55:25.115692+00:00",
+    "feature": "05_lane_turning_flow_rebuild",
+    "execution_mode": "event_engine_only",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:57:35.576908+00:00",
+    "feature": "05_lane_turning_flow_rebuild",
+    "execution_mode": "event_engine_only",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  }
+]

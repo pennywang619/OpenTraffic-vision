@@ -1,0 +1,12 @@
+{
+  "passed_runs": 6,
+  "execution_modes": [
+    "rule_only_fallback",
+    "shared_library"
+  ],
+  "latest_passed_timestamp": "2026-03-31T01:57:29.092045+00:00",
+  "feature": "traffic_light_timing_validation_yolo",
+  "public_repo": "OpenTraffic-TLTV-YOLO",
+  "sample_name": "traffic_light_timing_validation_yolo_sample",
+  "shared_library": "libtraffic_light_timing_validation_yolo.so"
+}

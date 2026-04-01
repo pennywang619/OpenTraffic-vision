@@ -1,0 +1,92 @@
+[
+  {
+    "timestamp": "2026-03-30T13:30:29.158190+00:00",
+    "feature": "vehicle_flow_detection",
+    "execution_mode": "flow_counter_only",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T13:30:29.166520+00:00",
+    "feature": "vehicle_flow_detection",
+    "execution_mode": "flow_counter_only",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T13:30:59.094237+00:00",
+    "feature": "vehicle_flow_detection",
+    "execution_mode": "flow_counter_only",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T13:30:59.102241+00:00",
+    "feature": "vehicle_flow_detection",
+    "execution_mode": "flow_counter_only",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T13:30:59.448568+00:00",
+    "feature": "vehicle_flow_detection",
+    "execution_mode": "flow_counter_only",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T13:30:59.455992+00:00",
+    "feature": "vehicle_flow_detection",
+    "execution_mode": "shared_library",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": "libvehicle_flow_detection.so",
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T15:29:40.552664+00:00",
+    "feature": "vehicle_flow_detection",
+    "execution_mode": "flow_counter_only",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "so_validate_flow_detection_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:55:23.415825+00:00",
+    "feature": "vehicle_flow_detection",
+    "execution_mode": "flow_counter_only",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:57:33.628559+00:00",
+    "feature": "vehicle_flow_detection",
+    "execution_mode": "flow_counter_only",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  }
+]

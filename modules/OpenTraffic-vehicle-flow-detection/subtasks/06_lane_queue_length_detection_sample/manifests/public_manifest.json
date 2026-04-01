@@ -1,0 +1,15 @@
+{
+  "public_repo": "OpenTraffic-vehicle-flow-detection",
+  "feature": "06_lane_queue_length_detection",
+  "version": "0.1.0",
+  "mode": "external-wrapper",
+  "artifacts": [
+    "so",
+    "validation",
+    "examples"
+  ],
+  "shared_library": "lib06_lane_queue_length_detection.so",
+  "notes": "Sanitized public delivery bundle with internal paths, source roots, and command details removed.",
+  "bundle_role": "vehicle_flow_subtask",
+  "parent_feature": "vehicle_flow_detection"
+}

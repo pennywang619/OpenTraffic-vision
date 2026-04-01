@@ -1,0 +1,13 @@
+{
+  "passed_runs": 6,
+  "execution_modes": [
+    "exe",
+    "flow_counter_only",
+    "shared_library"
+  ],
+  "latest_passed_timestamp": "2026-03-31T01:57:35.178024+00:00",
+  "feature": "04_area_vehicle_counting",
+  "public_repo": "OpenTraffic-vehicle-flow-detection",
+  "sample_name": "04_area_vehicle_counting_sample",
+  "shared_library": "lib04_area_vehicle_counting.so"
+}

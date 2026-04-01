@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2026-03-31T02:12:13.416810+00:00",
+    "feature": "01_object_tracking",
+    "execution_mode": "tracking_overlay_only",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T02:12:13.424937+00:00",
+    "feature": "01_object_tracking_sample",
+    "execution_mode": "exe",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T02:12:42.006268+00:00",
+    "feature": "01_object_tracking",
+    "execution_mode": "tracking_overlay_only",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T02:12:42.017153+00:00",
+    "feature": "01_object_tracking_sample",
+    "execution_mode": "exe",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T02:12:42.396784+00:00",
+    "feature": "01_object_tracking",
+    "execution_mode": "tracking_overlay_only",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "so_output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T02:12:42.404723+00:00",
+    "feature": "01_object_tracking_sample",
+    "execution_mode": "shared_library",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "so_output_result.jpg",
+    "library_name": "lib01_object_tracking.so",
+    "return_code": 0,
+    "passed": true
+  }
+]

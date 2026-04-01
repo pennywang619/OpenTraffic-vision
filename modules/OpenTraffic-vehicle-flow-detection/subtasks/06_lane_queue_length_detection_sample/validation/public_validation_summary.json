@@ -1,0 +1,13 @@
+{
+  "passed_runs": 6,
+  "execution_modes": [
+    "exe",
+    "queue_detector_only",
+    "shared_library"
+  ],
+  "latest_passed_timestamp": "2026-03-31T01:57:36.016395+00:00",
+  "feature": "06_lane_queue_length_detection",
+  "public_repo": "OpenTraffic-vehicle-flow-detection",
+  "sample_name": "06_lane_queue_length_detection_sample",
+  "shared_library": "lib06_lane_queue_length_detection.so"
+}

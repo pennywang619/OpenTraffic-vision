@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2026-03-30T13:23:02.875405+00:00",
+    "feature": "traffic_light_timing_validation_yolo",
+    "execution_mode": "rule_only_fallback",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T13:23:02.883236+00:00",
+    "feature": "traffic_light_timing_validation_yolo",
+    "execution_mode": "rule_only_fallback",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T13:23:07.057815+00:00",
+    "feature": "traffic_light_timing_validation_yolo",
+    "execution_mode": "rule_only_fallback",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T13:23:07.066974+00:00",
+    "feature": "traffic_light_timing_validation_yolo",
+    "execution_mode": "shared_library",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": "libtraffic_light_timing_validation_yolo.so",
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:55:18.880977+00:00",
+    "feature": "traffic_light_timing_validation_yolo",
+    "execution_mode": "rule_only_fallback",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:57:29.092045+00:00",
+    "feature": "traffic_light_timing_validation_yolo",
+    "execution_mode": "rule_only_fallback",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  }
+]

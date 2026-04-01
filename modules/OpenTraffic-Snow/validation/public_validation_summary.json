@@ -1,0 +1,12 @@
+{
+  "passed_runs": 5,
+  "execution_modes": [
+    "shared_library",
+    "traditional_no_model"
+  ],
+  "latest_passed_timestamp": "2026-03-31T01:57:20.848134+00:00",
+  "feature": "snow_detection",
+  "public_repo": "OpenTraffic-Snow",
+  "sample_name": "snow_detection_sample",
+  "shared_library": "libsnow_detection.so"
+}

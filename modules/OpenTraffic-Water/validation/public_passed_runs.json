@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2026-03-30T12:40:15.299290+00:00",
+    "feature": "water_detection",
+    "execution_mode": "traditional_fallback",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T13:09:53.616397+00:00",
+    "feature": "water_detection",
+    "execution_mode": "traditional_fallback",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T13:09:53.623957+00:00",
+    "feature": "water_detection",
+    "execution_mode": "shared_library",
+    "input_name": "ANXL_WXL_E_1742288509347.jpg",
+    "output_name": "so_output_result.jpg",
+    "library_name": "libwater_detection.so",
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:57:14.576343+00:00",
+    "feature": "water_detection",
+    "execution_mode": "traditional_fallback",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T03:00:45.598911+00:00",
+    "feature": "water_detection",
+    "execution_mode": "traditional_fallback",
+    "input_name": "10716.jpg",
+    "output_name": "output_10716.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T03:00:45.631567+00:00",
+    "feature": "water_detection",
+    "execution_mode": "traditional_fallback",
+    "input_name": "10716.jpg",
+    "output_name": "so_output_10716.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  }
+]

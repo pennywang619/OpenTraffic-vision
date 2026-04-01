@@ -1,0 +1,12 @@
+{
+  "passed_runs": 6,
+  "execution_modes": [
+    "motion_state_only",
+    "shared_library"
+  ],
+  "latest_passed_timestamp": "2026-03-31T01:57:34.793295+00:00",
+  "feature": "02_vehicle_motion_state",
+  "public_repo": "OpenTraffic-vehicle-flow-detection",
+  "sample_name": "02_vehicle_motion_state_sample",
+  "shared_library": "lib02_vehicle_motion_state.so"
+}

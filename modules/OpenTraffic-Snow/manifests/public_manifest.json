@@ -1,0 +1,13 @@
+{
+  "public_repo": "OpenTraffic-Snow",
+  "feature": "snow_detection",
+  "version": "0.1.0",
+  "mode": "external-wrapper",
+  "artifacts": [
+    "so",
+    "validation",
+    "examples"
+  ],
+  "shared_library": "libsnow_detection.so",
+  "notes": "Sanitized public delivery bundle with internal paths, source roots, and command details removed."
+}

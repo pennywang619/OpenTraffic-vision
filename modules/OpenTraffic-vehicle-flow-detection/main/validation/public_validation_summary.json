@@ -1,0 +1,12 @@
+{
+  "passed_runs": 9,
+  "execution_modes": [
+    "flow_counter_only",
+    "shared_library"
+  ],
+  "latest_passed_timestamp": "2026-03-31T01:57:33.628559+00:00",
+  "feature": "vehicle_flow_detection",
+  "public_repo": "OpenTraffic-vehicle-flow-detection",
+  "sample_name": "vehicle_flow_detection_sample",
+  "shared_library": "libvehicle_flow_detection.so"
+}

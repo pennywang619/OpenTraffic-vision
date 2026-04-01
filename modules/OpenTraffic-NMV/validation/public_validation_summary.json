@@ -1,0 +1,12 @@
+{
+  "passed_runs": 5,
+  "execution_modes": [
+    "branch_image_fallback",
+    "shared_library"
+  ],
+  "latest_passed_timestamp": "2026-03-31T01:57:34.406095+00:00",
+  "feature": "non_motor_vehicle",
+  "public_repo": "OpenTraffic-NMV",
+  "sample_name": "non_motor_vehicle_sample",
+  "shared_library": "libnon_motor_vehicle.so"
+}

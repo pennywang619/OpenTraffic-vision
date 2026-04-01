@@ -1,0 +1,13 @@
+{
+  "public_repo": "OpenTraffic-Occluded",
+  "feature": "image_occluded",
+  "version": "0.1.0",
+  "mode": "external-wrapper",
+  "artifacts": [
+    "so",
+    "validation",
+    "examples"
+  ],
+  "shared_library": "libimage_occluded.so",
+  "notes": "Sanitized public delivery bundle with internal paths, source roots, and command details removed."
+}

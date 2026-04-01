@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "2026-03-30T14:43:25.249062+00:00",
+    "feature": "non_motor_vehicle_branch",
+    "execution_mode": "branch_image_fallback",
+    "input_name": "1.png",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T14:43:25.256911+00:00",
+    "feature": "non_motor_vehicle_branch",
+    "execution_mode": "branch_image_fallback",
+    "input_name": "1.png",
+    "output_name": "output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T14:43:25.562501+00:00",
+    "feature": "non_motor_vehicle_branch",
+    "execution_mode": "branch_image_fallback",
+    "input_name": "1.png",
+    "output_name": "so_output_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-30T14:43:25.570310+00:00",
+    "feature": "non_motor_vehicle_branch",
+    "execution_mode": "shared_library",
+    "input_name": "1.png",
+    "output_name": "so_output_result.jpg",
+    "library_name": "libnon_motor_vehicle.so",
+    "return_code": 0,
+    "passed": true
+  },
+  {
+    "timestamp": "2026-03-31T01:57:34.406095+00:00",
+    "feature": "non_motor_vehicle_branch",
+    "execution_mode": "branch_image_fallback",
+    "input_name": "flow_detection_result.mp4",
+    "output_name": "video_validation_result.jpg",
+    "library_name": null,
+    "return_code": 0,
+    "passed": true
+  }
+]
