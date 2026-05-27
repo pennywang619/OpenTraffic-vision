@@ -212,7 +212,7 @@ q
 
 ## 性能指标
 
-历史全量速度 `JSONL` 对原始雷达 `JSONL` 的对比结果如下：
+全量速度 `JSONL` 对原始雷达 `JSONL` 的对比结果如下：
 
 ### 字段准确率对比表
 
@@ -281,12 +281,10 @@ http://www.apache.org/licenses/
 
 仓库说明：
 
-- 如果仓库最终以 Apache-2.0 对外发布，请在根目录补充正式 `LICENSE` 文件。
-- 当前感知打包子目录中可能仍存在其他本地许可证文本，正式发布前需要统一。
+- 仓库最终以 Apache-2.0 对外发布，在根目录补充正式 `LICENSE` 文件。
 
 ---
 
 <div align="center">
-  <b>OpenHelix-Team 风格仓库展示</b><br/>
   英文主页优先，配套中文切换页，便于 GitHub 统一展示。
 </div>
