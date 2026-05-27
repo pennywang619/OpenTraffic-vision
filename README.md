@@ -21,6 +21,11 @@
 
 An open-source traffic perception engine for urban intersections, designed for perception-driven TSC pipelines. It supports multi-stream video access, vehicle recognition, world-coordinate output, world-speed estimation, lane-level result generation, and radar-based validation.
 
+## Demo Video
+[![Perception Demo](video_cover.png)](videos/perception_raw.mp4)
+
+## Framework
+
 <br/>
 
 ![Perception System Framework Figure](framework-gz.jpg)
