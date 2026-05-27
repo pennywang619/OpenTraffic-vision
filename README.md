@@ -275,6 +275,5 @@ Repository note:
 ---
 
 <div align="center">
-  <b>OpenHelix-Team Style Repository Presentation</b><br/>
   English-first homepage with Chinese switch entry for unified GitHub display.
 </div>
