@@ -74,8 +74,6 @@
 opentraffic-perception-engine-main/
 ├── README.md
 ├── README_ZH.md
-├── README-感知.md
-├── README-控制.md
 ├── figure/
 │   ├── LOGO.png
 │   ├── LOGO2x.png
