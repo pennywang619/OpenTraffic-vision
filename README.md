@@ -96,8 +96,6 @@ The current system-level framework figure used for repository presentation:
 opentraffic-perception-engine-main/
 ├── README.md
 ├── README_ZH.md
-├── README-感知.md
-├── README-控制.md
 ├── figure/
 │   ├── LOGO.png
 │   ├── LOGO2x.png
@@ -164,21 +162,6 @@ q
 
 Edit `opentraffic-TIR/drivers/config.json`.
 
-### Core Configuration Fields
-
-| Field | Description |
-|---|---|
-| `intersection.id` | Intersection identifier |
-| `intersection.cameras[].id` | Camera identifier |
-| `intersection.cameras[].rtsp_url` | RTSP source or local video path |
-| `intersection.cameras[].window` | Effective image window |
-| `intersection.cameras[].H` | Pixel-to-world homography matrix |
-| `intersection.cameras[].H_inv` | World-to-pixel inverse homography |
-| `jsonlOutputDir` | JSONL result output directory |
-| `radarReferenceJsonl` | Radar reference file for validation |
-| `vehicleMatchMaxDist` | Max matching distance for validation |
-| `localRedisConfig.host` | Redis host |
-| `localRedisConfig.port` | Redis port |
 
 ### Example
 
