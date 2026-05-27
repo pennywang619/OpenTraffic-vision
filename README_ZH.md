@@ -64,26 +64,6 @@
 - [待办事项](#待办事项)
 
 
-## 论文
-
-- 题目：`OpenTraffic Perception System for Perception-Driven TSC`
-- 状态：`准备中 / 待发布`
-- 占位链接：`https://arxiv.org/abs/XXXX.XXXXX`
-
-## Hugging Face
-
-- 模型主页：`https://huggingface.co/`
-- 计划发布内容：
-  - 感知模型打包版本
-  - 示例输出结果
-  - 基准测试样例
-
-## 社交媒体
-
-- GitHub 组织：`https://github.com/OpenHelix-Team`
-- X / Twitter：`待补充`
-- 微信 / 社群：`待补充`
-
 ## 框架图
 
 当前仓库展示使用的系统级框架图如下：
@@ -247,6 +227,28 @@ q
 | `coordinate_space` | 精确一致率 | `100%` |
 | `timestamp_ms` | 200ms 内对齐率 | `100%` |
 | `vehicles[].lane` | 与雷达精确一致率 | `100%` |
+
+
+## 论文
+
+- 题目：`OpenTraffic Perception System for Perception-Driven TSC`
+- 状态：`准备中 / 待发布`
+- 占位链接：`https://arxiv.org/abs/XXXX.XXXXX`
+
+## Hugging Face
+
+- 模型主页：`https://huggingface.co/`
+- 计划发布内容：
+  - 感知模型打包版本
+  - 示例输出结果
+  - 基准测试样例
+
+## 社交媒体
+
+- GitHub 组织：`https://github.com/OpenHelix-Team`
+- X / Twitter：`待补充`
+- 微信 / 社群：`待补充`
+
 
 ## 引用
 
