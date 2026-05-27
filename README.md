@@ -23,7 +23,7 @@ An open-source traffic perception engine for urban intersections, designed for p
 
 <br/>
 
-![Perception System Framework Figure](framework.jpg)
+![Perception System Framework Figure](framework-gz.jpg)
 
 > **Paper:** https://arxiv.org/abs/XXXX.XXXXX  
 > **Hugging Face:** https://huggingface.co/  
@@ -99,9 +99,7 @@ opentraffic-perception-engine-main/
 ├── figure/
 │   ├── LOGO.png
 │   ├── LOGO2x.png
-│   ├── Framework.png
-│   └── Framework_EN.png
-├── 框架图-.jpg
+│   └── Framework.png
 └── opentraffic-TIR/
     ├── drivers/
     ├── recognizer/
