@@ -21,6 +21,9 @@
 
 面向城市交叉口的开源交通感知引擎，服务于 Perception-Driven TSC 场景。系统支持多路视频接入、车辆识别、世界坐标输出、世界速度估计、车道级结果生成，以及基于雷达参考数据的验证评测。
 
+[![Perception Demo](video_cover.png)](perception_raw.mp4)
+
+
 ![Perception System Framework Figure](framework-gz.jpg)
 
 > **论文：** https://arxiv.org/abs/XXXX.XXXXX  
