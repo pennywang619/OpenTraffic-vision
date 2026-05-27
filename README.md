@@ -66,25 +66,6 @@ An open-source traffic perception engine for urban intersections, designed for p
 - [TODO List](#todo-list)
 - [Directory](#directory)
 
-## Paper
-
-- Title: `OpenTraffic Perception System for Perception-Driven TSC`
-- Status: `In preparation / to be released`
-- Placeholder link: `https://arxiv.org/abs/XXXX.XXXXX`
-
-## Hugging Face
-
-- Model hub: `https://huggingface.co/`
-- Planned content:
-  - packaged perception models
-  - example outputs
-  - benchmark samples
-
-## Social Media
-
-- GitHub Organization: `https://github.com/OpenHelix-Team`
-- X / Twitter: `To be announced`
-- WeChat / Community group: `To be announced`
 
 ## Framework Figure
 
@@ -234,6 +215,27 @@ Historical full-set speed JSONL vs. raw radar JSONL:
 | `coordinate_space` | Exact match rate | `100%` |
 | `timestamp_ms` | Alignment rate within 200 ms | `100%` |
 | `vehicles[].lane` | Exact match rate against radar | `100%` |
+
+## Paper
+
+- Title: `OpenTraffic Perception System for Perception-Driven TSC`
+- Status: `In preparation / to be released`
+- Placeholder link: `https://arxiv.org/abs/XXXX.XXXXX`
+
+## Hugging Face
+
+- Model hub: `https://huggingface.co/`
+- Planned content:
+  - packaged perception models
+  - example outputs
+  - benchmark samples
+
+## Social Media
+
+- GitHub Organization: `https://github.com/OpenHelix-Team`
+- X / Twitter: `To be announced`
+- WeChat / Community group: `To be announced`
+
 
 ## Citation
 
