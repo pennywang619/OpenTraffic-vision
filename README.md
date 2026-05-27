@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![OpenTraffic Perception Logo](figure/LOGO2x.png)
+![OpenTraffic Perception Logo](LOGO2x.png)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](#license)
 [![Python](https://img.shields.io/badge/Python-3.13+-green.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
