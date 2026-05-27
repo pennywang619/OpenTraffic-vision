@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![OpenTraffic Perception Logo](figure/LOGO2x.png)
+![OpenTraffic Perception Logo](LOGO2x.png)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](#许可证)
 [![Python](https://img.shields.io/badge/Python-3.13+-green.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -21,7 +21,7 @@
 
 面向城市交叉口的开源交通感知引擎，服务于 Perception-Driven TSC 场景。系统支持多路视频接入、车辆识别、世界坐标输出、世界速度估计、车道级结果生成，以及基于雷达参考数据的验证评测。
 
-![Perception System Framework Figure](框架图-.jpg)
+![Perception System Framework Figure](framework-gz.jpg)
 
 > **论文：** https://arxiv.org/abs/XXXX.XXXXX  
 > **Hugging Face：** https://huggingface.co/  
@@ -41,6 +41,7 @@
 - [x] 车道级结构化结果
 - [x] Redis Stream 发布
 - [x] 雷达参考验证流程
+- [ ] 增加更多功能-期待v2
 - [ ] 发布公开预训练权重
 - [ ] 支持更多交叉口模板
 - [ ] 增加可视化看板
