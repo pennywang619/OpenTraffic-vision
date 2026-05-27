@@ -50,6 +50,7 @@
 ## 目录
 
 - [框架图](#框架图)
+- [目录结构](#目录结构)
 - [快速开始](#快速开始)
 - [配置说明](#配置说明)
 - [功能介绍](#功能介绍)
@@ -61,7 +62,7 @@
 - [社交媒体](#社交媒体)
 - [最新动态](#最新动态)
 - [待办事项](#待办事项)
-- [目录结构](#目录结构)
+
 
 ## 论文
 
@@ -98,9 +99,7 @@ opentraffic-perception-engine-main/
 ├── figure/
 │   ├── LOGO.png
 │   ├── LOGO2x.png
-│   ├── Framework.png
-│   └── Framework_EN.png
-├── 框架图-.jpg
+│   └── Framework.png
 └── opentraffic-TIR/
     ├── drivers/
     ├── recognizer/
@@ -169,8 +168,6 @@ q
 | `intersection.cameras[].id` | 摄像头标识 |
 | `intersection.cameras[].rtsp_url` | RTSP 地址或本地视频路径 |
 | `intersection.cameras[].window` | 有效图像窗口 |
-| `intersection.cameras[].H` | 像素到世界坐标的单应矩阵 |
-| `intersection.cameras[].H_inv` | 世界坐标到像素坐标的逆单应矩阵 |
 | `jsonlOutputDir` | JSONL 输出目录 |
 | `radarReferenceJsonl` | 用于验证的雷达参考文件 |
 | `vehicleMatchMaxDist` | 验证时的最大匹配距离 |
