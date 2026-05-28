@@ -34,8 +34,10 @@ An open-source traffic perception engine for urban intersections, designed for p
 
 ![Perception System Framework Figure](v2-framework.png)
 
+![Perception System Framework Figure](v3.png)
+
 ![Perception System Framework Figure](gz-final.pdf)
-[View the full figure PDF](gz-final.pdf)
+
 
 > **Paper:** https://arxiv.org/abs/XXXX.XXXXX  
 > **Hugging Face:** https://huggingface.co/  
